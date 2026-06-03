@@ -95,7 +95,7 @@
           background-color="#000000" color="#fff7e3"
           font-family="'Cinzel', Georgia, serif"
           font-size="12px" font-weight="700" letter-spacing="2px"
-          inner-padding="14px 40px" border-radius="60px" align="left">
+          inner-padding="14px 40px" border-radius="60px" align="center">
           DONATE NOW
         </mj-button>
         <mj-divider border-color="rgba(0,0,0,0.1)" border-width="1px"
