@@ -45,22 +45,15 @@
 
   <mj-body background-color="#fff7e3" width="600px">
 
-    <!-- HEADER: cream background + logo -->
-    <mj-section background-color="#fff7e3" padding="24px 20px 20px 20px">
+    <!-- HEADER: black background + cream logo -->
+    <mj-section background-color="#000000" padding="16px 20px 14px 20px">
       <mj-column>
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/8e7f6970-08e1-4c3d-b26d-3356ef13c062/TFT+Logo+1-6.png"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/29f03b0f-ba14-4672-9f6e-e9f26a30b68c/TFT+Logo+1-7.png"
           alt="Tithe for Tradition"
-          width="260px"
+          width="220px"
           href="https://www.tithefortradition.org"
           padding="0" />
-      </mj-column>
-    </mj-section>
-
-    <!-- thin rule below header -->
-    <mj-section background-color="#fff7e3" padding="0 0 0 0">
-      <mj-column>
-        <mj-divider border-color="rgba(0,0,0,0.1)" border-width="1px" padding="0" />
       </mj-column>
     </mj-section>
 
