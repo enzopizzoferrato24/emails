@@ -1,0 +1,155 @@
+<mjml lang="en" dir="ltr">
+  <mj-head>
+    <mj-title>Pro Civitate Dei 2026 — Thank You</mj-title>
+    <mj-preview>To all who gathered — thank you. What was built in those days will not be forgotten.</mj-preview>
+
+    <mj-font name="Cinzel" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700" />
+    <mj-font name="Cinzel Decorative" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700" />
+    <mj-font name="Libre Baskerville" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400" />
+
+    <mj-attributes>
+      <mj-all font-family="'Libre Baskerville', Georgia, serif" />
+      <mj-body background-color="#fff7e3" width="600px" />
+      <mj-section padding="0" />
+      <mj-text padding="0" color="#000000" font-size="16px" line-height="28px" />
+      <mj-class name="section-label"
+        font-family="'Cinzel', Georgia, serif"
+        font-size="11px" letter-spacing="3px" color="#000000" />
+      <mj-class name="heading"
+        font-family="'Cinzel', Georgia, serif"
+        font-size="26px" font-weight="700" color="#000000" line-height="34px" />
+      <mj-class name="body-text"
+        font-size="16px" line-height="28px" color="rgba(0,0,0,0.72)" />
+    </mj-attributes>
+
+    <mj-html-attributes>
+      <mj-selector path=".email-h1 div">
+        <mj-html-attribute name="role">heading</mj-html-attribute>
+        <mj-html-attribute name="aria-level">1</mj-html-attribute>
+      </mj-selector>
+      <mj-selector path=".email-h2 div">
+        <mj-html-attribute name="role">heading</mj-html-attribute>
+        <mj-html-attribute name="aria-level">2</mj-html-attribute>
+      </mj-selector>
+    </mj-html-attributes>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light dark">
+      <meta name="supported-color-schemes" content="light dark">
+    </mj-raw>
+
+    <mj-style inline="inline">
+      .label { text-transform: uppercase; opacity: 0.4; }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#fff7e3" width="600px">
+
+    <!-- HERO: typographic black band (replace with full-width photo when available) -->
+    <mj-section background-color="#1a1410" padding="0">
+      <mj-column padding="0">
+        <!-- PLACEHOLDER: replace src with hosted hero image URL when available -->
+        <!-- <mj-image src="PLACEHOLDER_HERO_IMAGE_URL" alt="Pro Civitate Dei 2026" padding="0" /> -->
+      </mj-column>
+    </mj-section>
+
+    <!-- HERO TEXT BAND -->
+    <mj-section background-color="#000000" padding="52px 40px 44px 40px">
+      <mj-column>
+        <mj-text align="center" font-family="'Cinzel', Georgia, serif"
+          font-size="10px" color="#fff7e3" letter-spacing="5px"
+          padding="0 0 16px 0">
+          2026 · PRO CIVITATE DEI
+        </mj-text>
+        <mj-text css-class="email-h1" align="center"
+          font-family="'Cinzel Decorative', 'Cinzel', Georgia, serif"
+          font-size="36px" font-weight="700" color="#fff7e3"
+          line-height="46px" padding="0">
+          Thank You<br />for Coming
+        </mj-text>
+        <mj-divider border-color="rgba(255,247,227,0.25)" border-width="1px"
+          width="50px" padding="20px 0" />
+        <mj-text align="center" font-style="italic"
+          color="rgba(255,247,227,0.78)" font-size="15px"
+          line-height="26px" padding="0 20px">
+          To all who gathered — thank you.<br />What was built in those days will not be forgotten.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- DONATION SECTION -->
+    <mj-section background-color="#fff7e3" padding="52px 0 0 0">
+      <mj-column padding="0 44px">
+        <mj-text css-class="label" mj-class="section-label" padding="0 0 14px 0">
+          Support the Mission
+        </mj-text>
+        <mj-text css-class="email-h2" mj-class="heading" padding="0 0 18px 0">
+          Help Us Do It Again
+        </mj-text>
+        <mj-text mj-class="body-text" padding="0 0 24px 0">
+          Tithe for Tradition is a 501(c)(3) dedicated to funding traditional Catholic life. Your gift makes events like Pro Civitate Dei possible — and ensures the work continues.
+        </mj-text>
+        <mj-button href="https://donorbox.org/embed/tithefortraditionlaunch"
+          background-color="#000000" color="#fff7e3"
+          font-family="'Cinzel', Georgia, serif"
+          font-size="12px" font-weight="700" letter-spacing="2px"
+          inner-padding="14px 40px" border-radius="60px" align="center">
+          DONATE NOW
+        </mj-button>
+        <mj-divider border-color="rgba(0,0,0,0.1)" border-width="1px"
+          padding="36px 0 0 0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- CTA: future event -->
+    <mj-section background-color="#000000" padding="52px 40px">
+      <mj-column>
+        <mj-text align="center" font-family="'Cinzel', Georgia, serif"
+          font-size="10px" color="#fff7e3" letter-spacing="4px"
+          padding="0 0 18px 0">
+          PRO CIVITATE DEI 2027
+        </mj-text>
+        <mj-text css-class="email-h2" align="center"
+          font-family="'Cinzel', Georgia, serif"
+          font-size="26px" font-weight="700" color="#fff7e3"
+          line-height="36px" padding="0 0 14px 0">
+          Join Us Again
+        </mj-text>
+        <mj-text align="center" font-style="italic"
+          color="rgba(255,247,227,0.65)" font-size="15px"
+          line-height="26px" padding="0 0 30px 0">
+          Registration for next year is coming soon.<br />Stay close.
+        </mj-text>
+        <mj-button href="https://www.tithefortradition.org"
+          background-color="#fff7e3" color="#000000"
+          font-family="'Cinzel', Georgia, serif"
+          font-size="12px" font-weight="700" letter-spacing="2px"
+          inner-padding="14px 40px" border-radius="60px" align="center">
+          LEARN MORE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- FOOTER -->
+    <mj-section background-color="#fff7e3" padding="24px 20px">
+      <mj-column>
+        <mj-image
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/8e7f6970-08e1-4c3d-b26d-3356ef13c062/TFT+Logo+1-6.png"
+          alt="Tithe for Tradition"
+          width="140px"
+          href="https://www.tithefortradition.org"
+          padding="0 0 14px 0" />
+        <mj-text align="center" font-style="italic"
+          color="rgba(0,0,0,0.35)" font-size="13px"
+          line-height="22px" padding="0 0 6px 0">
+          Pro Civitate Dei — For the City of God.
+        </mj-text>
+        <mj-text align="center" color="rgba(0,0,0,0.25)"
+          font-size="11px" letter-spacing="1px" padding="0">
+          © 2026 Tithe for Tradition · The 501(c)(3) for Tradition
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
