@@ -1,7 +1,7 @@
 <mjml lang="en" dir="ltr">
   <mj-head>
     <mj-title>Chartres Pilgrimage 2026 — Thank You</mj-title>
-    <mj-preview>To all who walked — thank you. What you carried on that road was more than your feet.</mj-preview>
+    <mj-preview>To all who joined us on the road to Chartres, thank you!</mj-preview>
 
     <mj-font name="Cinzel" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700" />
     <mj-font name="Cinzel Decorative" href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700" />
@@ -74,7 +74,7 @@
         <mj-text align="center" font-style="italic"
           color="rgba(255,247,227,0.78)" font-size="15px"
           line-height="26px" padding="0 20px">
-          To all who walked — thank you.<br />What you carried on that road was more than your feet.
+          To all who joined us on the road to Chartres, thank you!
         </mj-text>
       </mj-column>
     </mj-section>
