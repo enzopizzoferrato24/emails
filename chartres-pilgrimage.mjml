@@ -67,7 +67,7 @@
           font-family="'Cinzel Decorative', 'Cinzel', Georgia, serif"
           font-size="36px" font-weight="700" color="#fff7e3"
           line-height="46px" padding="0">
-          Thank You<br />for Walking
+          Thank You<br />Pilgrims
         </mj-text>
         <mj-divider border-color="rgba(255,247,227,0.25)" border-width="1px"
           width="50px" padding="20px 0" />
@@ -80,26 +80,84 @@
     </mj-section>
 
     <!-- DONATION SECTION -->
-    <mj-section background-color="#fff7e3" padding="40px 0 0 0">
+    <mj-section background-color="#fff7e3" padding="48px 0 0 0">
       <mj-column padding="0 44px">
         <mj-text css-class="label" mj-class="section-label" padding="0 0 14px 0">
           Support the Mission
         </mj-text>
         <mj-text css-class="email-h2" mj-class="heading" padding="0 0 18px 0">
-          Help Send More Pilgrims Next Year
+          Keep Matt in the Fight
         </mj-text>
-        <mj-text mj-class="body-text" padding="0 0 24px 0">
-          Tithe for Tradition is a 501(c)(3) dedicated to funding traditional Catholic life. Your gift directly supports the cost of the pilgrimage — making it possible for more souls to walk the road to Chartres in 2027.
+        <mj-text mj-class="body-text" padding="0 0 10px 0">
+          If your pilgrimage experience moves you to support the trad guerrilla warfare that Matthew is engaged in, we ask each of you to begin tithing. Pick a monthly amount below:
         </mj-text>
-        <mj-button href="https://donorbox.org/embed/tithefortraditionlaunch"
+      </mj-column>
+    </mj-section>
+
+    <!-- MONTHLY TITHE AMOUNTS -->
+    <mj-section background-color="#fff7e3" padding="16px 40px 0 40px">
+      <mj-column padding="0 3px 0 0">
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch?amount=50&default_interval=monthly"
+          background-color="#fff7e3" color="#000000"
+          font-family="'Cinzel', Georgia, serif" font-size="11px" font-weight="700"
+          letter-spacing="1px" inner-padding="10px 0" border-radius="60px"
+          border="1px solid rgba(0,0,0,0.25)" width="100%">
+          $50
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0 3px">
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch?amount=100&default_interval=monthly"
+          background-color="#000000" color="#fff7e3"
+          font-family="'Cinzel', Georgia, serif" font-size="11px" font-weight="700"
+          letter-spacing="1px" inner-padding="10px 0" border-radius="60px"
+          width="100%">
+          $100
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0 3px">
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch?amount=250&default_interval=monthly"
+          background-color="#fff7e3" color="#000000"
+          font-family="'Cinzel', Georgia, serif" font-size="11px" font-weight="700"
+          letter-spacing="1px" inner-padding="10px 0" border-radius="60px"
+          border="1px solid rgba(0,0,0,0.25)" width="100%">
+          $250
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0 3px">
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch?amount=500&default_interval=monthly"
+          background-color="#fff7e3" color="#000000"
+          font-family="'Cinzel', Georgia, serif" font-size="11px" font-weight="700"
+          letter-spacing="1px" inner-padding="10px 0" border-radius="60px"
+          border="1px solid rgba(0,0,0,0.25)" width="100%">
+          $500
+        </mj-button>
+      </mj-column>
+      <mj-column padding="0 0 0 3px">
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch?amount=1000&default_interval=monthly"
+          background-color="#fff7e3" color="#000000"
+          font-family="'Cinzel', Georgia, serif" font-size="11px" font-weight="700"
+          letter-spacing="1px" inner-padding="10px 0" border-radius="60px"
+          border="1px solid rgba(0,0,0,0.25)" width="100%">
+          $1,000
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ONE-TIME DONATION -->
+    <mj-section background-color="#fff7e3" padding="32px 0 0 0">
+      <mj-column padding="0 44px">
+        <mj-text mj-class="body-text" padding="0 0 20px 0">
+          Or, if what you took away from the pilgrimage exceeded what you expected — we humbly ask for a one-time gift to keep the work going.
+        </mj-text>
+        <mj-button href="https://donorbox.org/tithefortraditionlaunch"
           background-color="#000000" color="#fff7e3"
           font-family="'Cinzel', Georgia, serif"
           font-size="12px" font-weight="700" letter-spacing="2px"
           inner-padding="14px 40px" border-radius="60px" align="center">
-          DONATE NOW
+          MAKE A ONE-TIME GIFT
         </mj-button>
         <mj-divider border-color="rgba(0,0,0,0.1)" border-width="1px"
-          padding="36px 0 0 0" />
+          padding="40px 0 0 0" />
       </mj-column>
     </mj-section>
 
