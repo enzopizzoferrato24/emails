@@ -175,40 +175,40 @@
       </mj-column>
     </mj-section>
 
-    <!-- GALLERY ROW 1: 2-col (group + cathedral) -->
+    <!-- GALLERY ROW 1: 2-col (Mass interior shots) -->
     <mj-section background-color="#fff7e3" padding="0 8px 4px 8px">
       <mj-column padding="0 2px 0 0" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/a4bde60f-af08-4280-beea-72df30d07c9b/20260526_093923.jpg"
-          alt="Pilgrims at Mass inside the church"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/63fb0574-a52c-44c7-9a60-cb7fbc84fdee/6029.jpg"
+          alt="Pilgrims at Mass — packed congregation facing the altar"
           padding="0" />
       </mj-column>
       <mj-column padding="0 0 0 2px" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/75152589-bb30-449f-8536-296995e03540/20260526_151426.jpg"
-          alt="Pilgrims in front of Chartres Cathedral"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/c22c649f-ca2b-4f6a-9f09-19f311cbe354/6030.jpg"
+          alt="Looking down the nave — light rays stream through the church"
           padding="0" />
       </mj-column>
     </mj-section>
 
-    <!-- GALLERY ROW 2: 2-col (road + interior) -->
+    <!-- GALLERY ROW 2: 2-col (interior + Chartres Cathedral apse) -->
     <mj-section background-color="#fff7e3" padding="4px 8px">
       <mj-column padding="0 2px 0 0" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/8980d8cd-4ab6-4e9d-aaba-2957f79e1746/20260525_073012.jpg"
-          alt="Pilgrims walking along the road with the American flag"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/764cb985-86a9-47af-a359-285e69863606/6031.jpg"
+          alt="Mass during the pilgrimage — the congregation gathered in prayer"
           padding="0" />
       </mj-column>
       <mj-column padding="0 0 0 2px" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/eee2ca22-016d-4b15-956f-eeda9c081edc/20260526_115618.jpg"
-          alt="Inside Chartres Cathedral — the choir and stained glass"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/f3488179-0caf-4936-8ac2-99b70e83583b/6034.jpg"
+          alt="The Gothic apse of Chartres Cathedral — stained glass and the Virgin's statue"
           padding="0" />
       </mj-column>
     </mj-section>
 
     <!-- GALLERY ROW 3: full-width group portrait at cathedral portal -->
-    <mj-section background-color="#fff7e3" padding="4px 8px 4px 8px">
+    <mj-section background-color="#fff7e3" padding="4px 8px">
       <mj-column padding="0">
         <mj-image
           src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/ec38b132-4909-4314-9e8f-e257824cb5b4/IMG-20260527-WA0024.jpg"
@@ -217,18 +217,38 @@
       </mj-column>
     </mj-section>
 
-    <!-- GALLERY ROW 4: 2-col (interior light rays + nave) -->
-    <mj-section background-color="#fff7e3" padding="4px 8px 8px 8px">
+    <!-- GALLERY ROW 4: 2-col (Our Lady statue + Custos chapter) -->
+    <mj-section background-color="#fff7e3" padding="4px 8px">
       <mj-column padding="0 2px 0 0" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/ba48a9bd-f1a0-4641-9c48-9e58ee09c893/20260526_105331.jpg"
-          alt="Light rays inside the church during Mass"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/2ac516b1-92cb-4502-894a-45ae2dc2341d/6036.jpg"
+          alt="Our Lady of Chartres — the venerable statue with fresh flowers"
           padding="0" />
       </mj-column>
       <mj-column padding="0 0 0 2px" vertical-align="top">
         <mj-image
-          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/3cf304eb-3360-4cf5-806b-e4b7e8f7179d/20260525_064145.jpg"
-          alt="Pilgrims gathered around the cross with the American flag"
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/4e80754d-a47d-4b21-ad14-9400dfec4eb2/6110.jpg"
+          alt="Custos Traditionis chapter with the American flag and chapter banner"
+          padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- GALLERY ROW 5: full-width priest at pulpit -->
+    <mj-section background-color="#fff7e3" padding="4px 8px">
+      <mj-column padding="0">
+        <mj-image
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/7469bb7d-9ef7-454f-8a48-4130cc062829/6113.jpg"
+          alt="Fr. Withoos preaching from the ornate carved pulpit"
+          padding="0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- GALLERY ROW 6: full-width group dinner -->
+    <mj-section background-color="#fff7e3" padding="4px 8px 8px 8px">
+      <mj-column padding="0">
+        <mj-image
+          src="https://images.squarespace-cdn.com/content/v1/68c3373fd5e4203e4ae35971/b5ee9142-e30c-4282-bf79-d8842711113b/6114.jpg"
+          alt="The post-pilgrimage dinner — the whole chapter gathered at table"
           padding="0" />
       </mj-column>
     </mj-section>
